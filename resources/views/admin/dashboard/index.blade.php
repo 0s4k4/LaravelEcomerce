@@ -1,6 +1,8 @@
 @extends('admin.app')
 @section('title') Dashboard @endsection
 @section('content')
+
+<! --los datos del dashboard solo estan como relleno, aun falta hacer dinamico el sitio para dar una cantidad real en produccion-->
     <div class="app-title">
         <div>
             <h1><i class="fa fa-dashboard"></i> Dashboard</h1>

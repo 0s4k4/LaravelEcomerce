@@ -12,7 +12,7 @@
             <a class="app-nav__item" href="#" data-toggle="dropdown" aria-label="Show notifications"><i class="fa fa-bell-o fa-lg"></i></a>
             <ul class="app-notification dropdown-menu dropdown-menu-right">
                 <li class="app-notification__title">
-                    You have 4 new notifications.
+                    Usted tiene 4 notificaciones nuevas.
                 </li>
                 <div class="app-notification__content">
                     <li>
@@ -25,9 +25,9 @@
                             </span>
                             <div>
                                 <p class="app-notification__message">
-                                    Mail server not working
+                                    Servidor de mail no funciona
                                 </p>
-                                <p class="app-notification__meta">5 min ago</p>
+                                <p class="app-notification__meta">Hace 5 minutos</p>
                             </div>
                         </a>
                     </li>
@@ -41,15 +41,15 @@
                             </span>
                             <div>
                                 <p class="app-notification__message">
-                                    Transaction complete
+                                    Transaccion completada
                                 </p>
-                                <p class="app-notification__meta">2 days ago</p>
+                                <p class="app-notification__meta">Hace 2 dias</p>
                             </div>
                         </a>
                     </li>
                 </div>
                 <li class="app-notification__footer">
-                    <a href="#">See all notifications.</a>
+                    <a href="#">Ver todas las notificaciones.</a>
                 </li>
             </ul>
         </li>
